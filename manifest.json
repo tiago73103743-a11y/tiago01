@@ -1,18 +1,1 @@
-{
-  "name": "Tecnologias em Dia",
-  "short_name": "Tecnologia",
-  "description": "Veja os componentes eletrônicos e faça já o seu pedido",
-  "background_color": "#ffffff",
-  "theme_color": "#0d6efd",
-  "display": "standalone",
-  "start_url": "./index.html",
-  "scope": "./",
-  "orientation": "any",
-  "icons": [
-    {
-      "src": "assets/favicon.ico",
-      "sizes": "any",
-      "type": "image/x-icon"
-    }
-  ]
-}
+
