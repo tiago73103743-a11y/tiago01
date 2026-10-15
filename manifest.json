@@ -1,27 +1,18 @@
 {
+  "name": "Tecnologias em Dia",
+  "short_name": "Tecnologia",
+  "description": "Veja os componentes eletrônicos e faça já o seu pedido",
   "background_color": "#ffffff",
-  "description": "tiago01",
-  "dir": "ltr",
+  "theme_color": "#0d6efd",
   "display": "standalone",
-  "name": "tiago01",
+  "start_url": "./index.html",
+  "scope": "./",
   "orientation": "any",
-  "scope": "/",
-  "short_name": "tiago01",
-  "start_url": "/",
-  "theme_color": "#ffffff",
   "icons": [
     {
-      "src": "https://tiago73103743-a11y.github.io/tiago01/assets/favicon.ico",
-      "type": "image/x-icon",
-      "isSquare": false,
-      "isPng": false,
-      "isWebp": false,
-      "isJpg": false,
-      "width": 0,
-      "is512x512": false,
-      "is256x256": false,
-      "is192x192": false
+      "src": "assets/favicon.ico",
+      "sizes": "any",
+      "type": "image/x-icon"
     }
-  ],
-  "id": "https://tiago73103743-a11y.github.io/tiago01/"
+  ]
 }
